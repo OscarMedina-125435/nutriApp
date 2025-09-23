@@ -1,15 +1,20 @@
-Documentacion de aplicacion
+## Documentacion de aplicacion
 
-OBJETIVO:
-investigar las APIs
-entenderlas al 100%
-hacer bien esta investigacion
-intentar usar APIs
-completar y excentar la acividad
+# OBJETIVO:
+Comprender el concepto de API: Saber qué es una API, cómo funciona y por qué es importante en el desarrollo de software.
 
-integrantes:
-Maria Luz Ubiarco Montes 2D
-Oscar Adrian Medina Hernandez 2D
+Explorar aplicaciones reales: Ver cómo las APIs se usan en apps populares como Instagram, Google Maps o Spotify.
 
-FOTO:
-![yo (1)](https://github.com/user-attachments/assets/77e210b3-0a28-4687-96fe-f9fa45056a34)
+Aprender sobre integración de sistemas: Entender cómo las APIs permiten que diferentes plataformas se comuniquen entre sí.
+
+Desarrollar habilidades técnicas: Familiarizarse con conceptos como peticiones HTTP, JSON, endpoints, y autenticación.
+
+
+
+# integrantes:
+**Maria Luz Ubiarco Montes 3D**
+**Oscar Adrian Medina Hernandez 3D**
+
+# FOTO:
+
+![oscar (1)](https://github.com/user-attachments/assets/2533ea17-83b7-47bf-aa2c-0dcc0ea2ea95)
