@@ -18,3 +18,22 @@ Desarrollar habilidades técnicas: Familiarizarse con conceptos como peticiones 
 # FOTO:
 
 ![oscar (1)](https://github.com/user-attachments/assets/2533ea17-83b7-47bf-aa2c-0dcc0ea2ea95)
+# Nombre:
+Medina Hernanez Oscar Adrian
+
+# Grado y Grupo:
+3-D
+
+# Profe:
+Treviño Tapia Juan Ruben
+
+# Fecha:
+22/10/25
+
+# Asignatura:
+Emplea Frameworks Para El Desarrollo de Software
+
+# Foto:
+![MHOA (1)](https://github.com/user-attachments/assets/b293f166-2e0c-45e1-9648-9541779cc4cf)
+![WhatsApp Image 2025-09-23 at 9 08 04 AM (1)](https://github.com/user-attachments/assets/e41c28b6-6f73-4965-9d85-53e7ba798e0e)
+
